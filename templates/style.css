@@ -1,0 +1,194 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+.social a {
+    text-align: center;
+    width: 29px;
+    height: 29px;
+    float: left;
+    background: #fff;
+    border: 0px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+    border-radius: 6px;
+    padding: 6px;
+    color: #000;
+}
+
+
+
+.github a:hover {background: #191919; color: #fff;}
+.telegram a:hover {background: #249bd7; color: #fff;}
+.whatsapp a:hover {background: #50b154; color: #fff;}
+
+
+
+.contacts-box a {
+    margin-top: 25px;
+    margin-left: 28px;
+}
+.social {
+    display: inline;
+}
+html body {
+    overflow-x: hidden;
+    margin: 0;
+    width: auto !important;
+    font-family: Montserrat;
+    font-size: 1rem;
+    font-weight: 400;
+    outline-width: 1px;
+    color: white;
+    background-color: black;
+
+}
+.header{
+    background: black;
+    position: relative;
+    width: 100%;
+    height: auto;
+    left: 0;
+    top: 0;
+    padding: 5px;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+
+.container {
+
+    width: 100%;
+    padding: 5px;
+
+}
+
+.logo-contacts-links{
+    display: flex;
+    padding-top: 0px;
+}
+
+.container .logo{
+    position: absolute;
+    width: 180px;
+    margin-right: 1111px;
+    margin-top: 41px;
+    margin-left: 75px;
+}
+
+
+.logo-contacts-links .logo h3{
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    color: white;
+}
+
+.logo-contacts-links .logo .family{
+    width: 105%;
+    border-radius: 1px;
+    background: #116BBD;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.contacts-box{
+    margin-top: 42px;
+    margin-left: 200px;
+    width: 236px;
+    height: 89px;
+    background: #116BBD;
+    border-radius: 3px;
+    }
+
+
+.contacts .contacts-box{
+    margin-top: 42px;
+    
+}
+
+
+
+.links ul{
+    list-style-type: none;
+    margin-left: 340px;
+    margin-top: 72px;
+    display: flex;
+}
+
+.other-webpage li{
+    padding-left: 61px;
+}
+
+.links a{
+    padding: 10px;
+    color: white !important;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+
+.links a:hover{
+  font-weight: 500;
+  transition: all 0.3s ease;
+  background: #116BBD;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+}
+
+.links :hover a{
+    transition: all 1s ease;
+}
+.pattern{
+    width: 526px;
+    margin-left: 75px;
+    margin-top: 109px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.pattern .gen-word{
+    font-size: 72px;
+    margin-bottom: 3px;
+}
+
+.pattern .future{
+    width: 105%;
+
+    border-radius: 1px;
+    background: #116BBD;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.contacts-icons{
+    padding-top: 27px;
+    padding-left: 20px;
+    display: flex;
+
+}
+
+.contacts-icons a{
+    padding-left: 45px;
+}
+
+
+
+.contacts-icons .first{
+    padding-left: 0px;
+}
+
+.contacts-box span {
+    margin-left: 55px;
+    position: absolute;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #116BBD;
+    margin-top: 10px;
+}
+
+
+}
